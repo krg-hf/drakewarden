@@ -70,6 +70,7 @@ toc::[]
 - [x] range on range operations, ranges can behave analogous to sets for these operations
 
 == How to build
+With maven and gradle
 
 === Environment setup requirements
 
